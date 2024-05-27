@@ -16,8 +16,8 @@
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hoon94&show_icons=true&theme=gotham&hide="/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon94&theme=gotham&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hoon94&show_icons=true&theme=dracula&hide="/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon94&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 <img align="right" width="50%" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=dleognsdl1"/></a>
 
 <!--
