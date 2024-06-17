@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoon94%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hoon94&show_icons=true&theme=dracula&hide="/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon94&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/></a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon94&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=4"/></a>
 <img align="right" width="50%" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=dleognsdl1"/></a>
 
 <div align="left" width="60%">
