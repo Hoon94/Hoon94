@@ -19,6 +19,8 @@
 
 🎁 함께 소통하며 문제를 해결하는 것을 좋아합니다. <br>
 
+💬 [포트폴리오](https://sugary-haze-217.notion.site/Daehoon-Lee-37b320b3e2074682873a8ac49d482dd0?pvs=4) <br>
+
 <br>
 
 ### 📋 Tech Stack
